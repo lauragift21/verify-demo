@@ -7,7 +7,7 @@
 <style>
 html {
   font-family:
-    'Source Sans Pro',
+    'Roboto',
     -apple-system,
     BlinkMacSystemFont,
     'Segoe UI',
@@ -22,6 +22,8 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  border: .5rem solid #0d5e9d;
+  min-height: 100vh;
 }
 
 *,
